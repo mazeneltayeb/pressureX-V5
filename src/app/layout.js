@@ -13,8 +13,8 @@ import ClientLayout from "./ClientLayout"; // ده هنضيفه بعد شوية
 
 
 export const metadata = {
-  title: "temple",
-  description: "موقع عربي لمتابعة المقالات والأسعار والبورصة.",
+  title: "Pressure",
+  description: "متجر متخصص في بيع قطع غيار السيارات جملة وقطاعي في مصر. نوفر قطع غيار أصلية لجميع الماركات مع شحن سريع لكل المحافظات.",
 };
 
 export default function RootLayout({ children }) {
